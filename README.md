@@ -1,4 +1,4 @@
-# Hi!
+# Hi! Привіт!
 
 [Nature](https://unsplash.com/de/fotos/foggy-mountain-summit-1Z2niiBPg5A)
 
