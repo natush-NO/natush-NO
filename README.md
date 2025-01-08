@@ -2,7 +2,7 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="50"/>](https://www.instagram.com/natush_no/?igsh=M2l2NmxpZzRwNDFk&utm_source=qr#)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="50"/>](https://www.linkedin.com/in/nataliia-osman-1a48152b9/)
 
-**I am**  #### Nataliia.
+**I am Nataliia.**
 
 I am from **Ukraine**.                                                                                                                                                                                               
                                                                                                                                                                                                                      
