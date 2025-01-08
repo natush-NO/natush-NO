@@ -1,13 +1,13 @@
-# Привіт!
+# Hi! 
 
-My name is Nataliia. I am from Ukraine. As of March 1, 2022, I am in Germany. When I arrived in Germany, I only knew a few words in German from a song: "Sieben Sieben ilyulyu, Sieben Sieben Eins Zwei" [Verka Serduchka](https://www.bing.com/images/search?view=detailV2&ccid=JNJZiT9W&id=09C4CE452C2A26C0FAE99BF9EE3120347A5D1527&thid=OIP.JNJZiT9WCYWcoqVXHWOqrwHaFu&mediaurl=https%3a%2f%2fc8.alamy.com%2fcomp%2f2D22B23%2fukraines-verka-serduchka-performs-his-song-dancing-lasha-tumbai-during-the-finals-of-the-eurovision-song-contest-in-helsinki-may-12-2007-reutersbob-strong-finland-2D22B23.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.24d259893f5609859ca2a5571d63aaaf%3frik%3dJxVdejQgMe75mw%26pid%3dImgRaw%26r%3d0&exph=1005&expw=1300&q=Verka+Serduchka&simid=608049052136252767&FORM=IRPRST&ck=4B965BC589E54F9F5CADE47628E51A18&selectedIndex=8&itb=0&ajaxhist=0&ajaxserp=0)
+My name is Nataliia.   I am from Ukraine. In March 2022, I moved to Germany.   Since September 2023, I started learning ```HTML``` and ```CSS```. I became deeply fascinated by the world of IT, and in 2024, I took a bold step and enrolled in three courses, one of which is a Bootcamp at Neue Fische. Currently, I am diving deeper into learning ```JavaScript``` and programming languages in general.
 
-[The song](https://www.youtube.com/watch?v=sDYv0rQzCd4) (performed by Verka Serduchka). 
-
-Currently, I am pursuing my dream and studying here.
+I am pursuing my dream and studying intensively to make it a reality.
 
 - Item 1: I am confidently studying **web development** 💫
 - Item 2: I am learning German and English 🖋
 - Item 3: I believe everything will be fine (a little bit of a stretch, but I want to believe it) 🤗
 
-![description of image](https://agropolit.com/media/news/o-o-w/00/15/15600/ya-21688.jpg)
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/100px-Instagram_logo_2022.svg.png)](https://www.instagram.com/natush_no/?igsh=M2l2NmxpZzRwNDFk&utm_source=qr#) 
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/nataliia-osman-1a48152b9/)
+
