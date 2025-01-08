@@ -8,6 +8,6 @@ I am pursuing my dream and studying intensively to make it a reality.
 - Item 2: I am learning German and English 🖋
 - Item 3: I believe everything will be fine (a little bit of a stretch, but I want to believe it) 🤗
 
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/100px-Instagram_logo_2022.svg.png)](https://www.instagram.com/natush_no/?igsh=M2l2NmxpZzRwNDFk&utm_source=qr#) 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/nataliia-osman-1a48152b9/)
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg)](https://www.instagram.com/natush_no/?igsh=M2l2NmxpZzRwNDFk&utm_source=qr#) 
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/nataliia-osman-1a48152b9/)
 
